@@ -1,8 +1,8 @@
 <!-- Profile Header -->
 <h2 align="center">Hi, I'm Nidhi Bhat 👋</h2>
 <p align="center">
-  <i>CSE Pre Final Year Student @ NIE Mysore | Exploring Product, Data & AI</i><br/>
-  <i>Former Intern at Mini Data Consulting | 3x Hackathon Winner</i>
+  <i>CSE Final Year Student @ NIE Mysore | Exploring Product, Data & AI</i><br/>
+  <i> SDE Intern at Nokia, Former Intern at Mini Data Consulting | 3x Hackathon Winner</i>
 </p>
 
 <!-- LinkedIn -->
@@ -16,8 +16,8 @@
 
 ### 👩‍💻 About Me
 
-🎓 I’m a 3rd-year Computer Science Engineering student at NIE Mysore with a passion for technology, product management, and innovation.  
-💡 I enjoy building impactful projects and exploring strategic thinking behind product development.  
+🎓 I’m a final year Computer Science Engineering student at NIE Mysore with a passion for technology, product management, and innovation.  
+💡 I enjoy building impactful projects and exploring strategic thinking behind product development. 
 🛠️ Experienced in DBMS, CN, OS, DSA, IoT, OOP, and Microcontrollers.  
 🎤 Public speaker & writer with a love for hosting events and collaborating with creative minds.  
 📖 Avid reader and always up for exploring new perspectives.
